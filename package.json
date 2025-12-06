@@ -38,7 +38,7 @@
     "@vue/component-compiler-utils": "^3.3.0",
     "browser-sync": "^3.0.4",
     "bulma": "^1.0.4",
-    "chai": "^4.3.4",
+    "chai": "^6.2.1",
     "eslint": "^9.39.1",
     "eslint-config-airbnb": "^19.0.4",
     "eslint-config-airbnb-base": "^15.0.0",
